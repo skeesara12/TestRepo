@@ -1,6 +1,6 @@
 {
   "name": "GitDemoTest",
-  "description": "Blank Process",
+  "description": "Swethafeature",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.UIAutomation.Activities": "[19.1.0]",
